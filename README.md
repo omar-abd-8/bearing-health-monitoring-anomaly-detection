@@ -136,6 +136,6 @@ project/
 │       └── 1st_test/
 │
 ├── notebooks/
-│   └── 02_clean_bearing_pipeline.ipynb
+│   └── bearing_health_monitoring_early_degradation_detection.ipynb
 │
 └── README.md
